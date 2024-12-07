@@ -5,6 +5,10 @@
 ### Spigot API was used.
 
 #### function :
-- IDK
-
+- /afk
+- /tpa ( tpadeny, tpaccept )
+- /home (sethome)
+- /crl (op)
+- Change ore to ingot when it becomes insolvent.
+- pl, plugins command blocking function
 [Discord](https://discord.gg/WJrB6XtqfF)
