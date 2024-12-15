@@ -1,4 +1,4 @@
-# kikiSP
+# plugSP
 ## Source is not provided.
 
 ### This is a Maven-based Minecraft plugin.
