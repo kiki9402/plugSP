@@ -12,4 +12,5 @@
 - Change ore to ingot when it becomes insolvent.
 - pl, plugins command blocking function
 
-[Discord](https://discord.gg/WJrB6XtqfF)
+[Discord](https://discord.gg/2UqkvTTDa6)
+
