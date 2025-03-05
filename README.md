@@ -6,8 +6,11 @@
 
 #### function :
 - /afk
-- /tpa ( tpadeny, tpaccept )
-- /home (sethome)
+- /tpa 
+- /tpadeny
+- /tpaccept 
+- /home
+- /sethome
 - /crl (op)
 - Change ore to ingot when it becomes insolvent.
 - pl, plugins command blocking function
